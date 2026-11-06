@@ -1,0 +1,7 @@
+streamlit>=1.30
+pydeck
+altair
+pandas>=2.1
+numpy
+pyproj
+openpyxl
